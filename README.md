@@ -1,5 +1,5 @@
 # Security_Analysis
-
+To see the final report, refer to Machine_Learning_Special_Project.pdf
 ## Goals
 - Compare predictions of the prices of publicly traded securities in the near future using a single-layer perceptron versus logistic regression. 
 - Validate the application of machine learning in the financial discipline
